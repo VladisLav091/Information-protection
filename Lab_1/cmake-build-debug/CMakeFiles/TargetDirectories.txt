@@ -1,0 +1,3 @@
+C:/Users/Vladislav888/CLionProjects/Zishita_information/cmake-build-debug/CMakeFiles/Zishita_information.dir
+C:/Users/Vladislav888/CLionProjects/Zishita_information/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Vladislav888/CLionProjects/Zishita_information/cmake-build-debug/CMakeFiles/rebuild_cache.dir
