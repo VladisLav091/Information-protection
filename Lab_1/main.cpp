@@ -89,7 +89,7 @@ void processFile(const std::string& inputFile, const std::string& outputFile, co
 
 void Task_1_2(){
 
-    std::string desktopPath = "C:/Users/Vladislav888/Desktop/File.doc";
+    std::string desktopPath = "File.doc";
     std::ifstream file(desktopPath, std::ios::binary);
     if (!file.is_open()) {
         std::cerr << "The file could not be opened." << std::endl;
