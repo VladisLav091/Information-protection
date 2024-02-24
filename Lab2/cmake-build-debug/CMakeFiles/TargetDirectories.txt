@@ -1,0 +1,3 @@
+C:/Users/Vladislav888/CLionProjects/Information_protection/Lab2/cmake-build-debug/CMakeFiles/protected_information1.dir
+C:/Users/Vladislav888/CLionProjects/Information_protection/Lab2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Vladislav888/CLionProjects/Information_protection/Lab2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
